@@ -3,7 +3,7 @@
 I'm Franco, a freelance software developer. I mainly use Python but can work with different tech
 such as Arduino C++, the usual HTML, CSS, etc... stack, shells.
 
-- [👨‍💻 Work](https://fiverr.com/franco_masotti)
+- [👨‍💻 Work](https://fiverr.com/franco_masotti) & [⭐ Reviews](https://blog.franco.net.eu.org/jobs/#fiverr-reviews)
 - [📹 YouTube](https://www.youtube.com/channel/UC2rr0LbIuy34JHEoCndmKiA)
 - [🌐 Blog](https://blog.franco.net.eu.org/)
 - [🦣 Mastodon](https://social.franco.net.eu.org/@frnmst)
