@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-I'm Franco, a freelance software developer. I mainly use Python but can work with different tech
-such as Arduino C++, the usual HTML, CSS, etc... stack, shells.
+I'm Franco, a freelance software developer. I mainly use Python on GNU/Linux (Debian) but can work with different tech
+such as FastAPI, HTML, CSS, JS, shells, Arduino C++, etc... Be sure to check out my open source (libre) repos and
+let me know if you want to work with me on something:
 
 - [👨‍💻 Work](https://fiverr.com/franco_masotti) & [⭐ Reviews](https://blog.franco.net.eu.org/jobs/#fiverr-reviews)
 - [📹 YouTube](https://www.youtube.com/channel/UC2rr0LbIuy34JHEoCndmKiA)
