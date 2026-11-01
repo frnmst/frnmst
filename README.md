@@ -24,3 +24,12 @@ and more frequently due to [residential proxy scraping](https://thelibre.news/fo
 - [🖥️ Codeberg](https://codeberg.org/frnmst)
 - [🖥️ Framagit](https://framagit.org/frnmst)
 - [🖥️ Self-hosted Forgejo](https://repos.franco.net.eu.org)
+
+## Hire me for Python backend
+
+I am available for remote, fully distributed roles. If your team does clean code, testing, and
+documentation, let's talk. Please check my repos and links first!
+
+- [📧 contact email](mailto://solvecomputersciencecollabs+hire-me@gmail.com) (No agencies, please)
+
+If you are a human, put my GitHub profile name and my first name in the email subject, otherwise it will be ignored!
