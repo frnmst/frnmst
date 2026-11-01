@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Franco, a freelance software developer. I mainly use Python on GNU/Linux (Debian) but can work with different tech
+I'm Franco, a [freelance](#hire-me-for-python-backend) software developer. I mainly use Python on GNU/Linux (Debian) but can work with different tech
 such as FastAPI, HTML, CSS, JS, shells, Arduino C++, etc... Be sure to check out my open source (libre) repos and
 let me know if you want to work with me on something:
 
