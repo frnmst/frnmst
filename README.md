@@ -2,7 +2,7 @@
 
 I'm Franco, a [freelance](#hire-me-for-python-backend) software developer. I mainly use Python on GNU/Linux (Debian) but can work with different tech
 such as FastAPI, HTML, CSS, JS, shells, Arduino C++, etc... Be sure to check out my open source (libre) repos and
-let me know if you want to work with me on something:
+let me know if you want to work with me on something (or [hire me](#hire-me-for-python-backend)):
 
 - [👨‍💻 Work](https://fiverr.com/franco_masotti) & [⭐ Reviews](https://blog.franco.net.eu.org/jobs/#fiverr-reviews)
 - [📹 YouTube](https://www.youtube.com/channel/UC2rr0LbIuy34JHEoCndmKiA)
