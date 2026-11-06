@@ -27,8 +27,8 @@ and more frequently due to [residential proxy scraping](https://thelibre.news/fo
 
 ## Hire me for Python backend
 
-I am available for remote, fully distributed roles. If your team does clean code, testing, and
-documentation, let's talk. Please check my repos and links first!
+I am available for remote, fully distributed roles. If your team does [clean code, testing, and
+documentation](https://fiverr.com/franco_masotti), let's talk. Please check my repos and links first!
 
 - [📧 contact email](mailto://solvecomputersciencecollabs+hire-me@gmail.com) (No agencies, please)
 
